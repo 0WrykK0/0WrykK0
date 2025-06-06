@@ -1,16 +1,17 @@
-## Hi there 👋
+#Hi! I am Vincent
+ I am a Python programmer, I am interested in game development.
 
-<!--
-**0WrykK0/0WrykK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##My Hard Skills:
+-Python, algorithms 
+-Pygame
+-Sqlite
+-Pyrogram
 
-Here are some ideas to get you started:
+##My projects:
+-Telegram bot
+-Website
+-Video game
+-AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacts:
+-instagram: https://www.instagram.com/vincentgurskis/
