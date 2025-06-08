@@ -7,6 +7,13 @@
 -Sqlite
 -Pyrogram
 
+##My Soft Skills:
+-Time Management
+-Communication
+-Leadership
+-Adaptation
+-Public speaking skill
+
 ##My projects:
 -Telegram bot
 -Website
